@@ -1,2 +1,4 @@
 .venv/
 .dockervenv/
+.vscode/
+__pycache__/
