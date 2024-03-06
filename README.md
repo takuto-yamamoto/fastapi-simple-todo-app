@@ -1,7 +1,5 @@
 # fastapi-simple-todo-app
 
-## About
-
 FastAPIを用いた簡単なToDoアプリを作成する
 
 ## Refs
